@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Information:
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Student Software Developer at Sheffield Hallam University. Programming in C++ and C#.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[birkettlewis@gmail.com](mailto:birkettlewis@gmail.com)
